@@ -4,11 +4,10 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/softwareunderground/awesome-open-geoscience.svg?label=link%20check&logo=travis)](https://travis-ci.org/softwareunderground/awesome-open-geoscience) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/softwareunderground/awesome-open-geoscience.svg?label=contributions)](https://github.com/softwareunderground/awesome-open-geoscience/pulls) [![Commits](https://img.shields.io/github/last-commit/softwareunderground/awesome-open-geoscience.svg?label=last%20contribution)](https://github.com/softwareunderground/awesome-open-geoscience/commits/master) [![Chat on slack](https://img.shields.io/badge/slack-join-ff69b4.svg)](https://swung.slack.com/join/shared_invite/enQtNTczNjM4ODMxODMwLTQ3Yjk3MjFmOTJkYzUyZDU3OGI3ZmJhMzIyNzQxYjcyZDM5MWU4OTVmNTBiOTM4Zjg1ZDViOGM3NmQ4OTgzOTk) [![License](https://img.shields.io/github/license/softwareunderground/awesome-open-geoscience.svg)](https://github.com/softwareunderground/awesome-open-geoscience/blob/master/LICENSE)
 
-Inspired by [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience), we made a specific list of open hydrology-relevant projects. This list is curated from repositories that make our lives as (eco-)hydrologists easier. In accordance with the awesome manifesto, we add awesome repositories. We are open to [contributions](contributing.md) of course, this is a community effort after all.
+Inspired by the below-mentioned list for geoscience by [softwareunderground](https://github.com/softwareunderground), we made a specific list of open hydrology-relevant projects. This list is curated from repositories that make our lives as (eco-)hydrologists easier. We add the ![Awesome](media/icon/awesome.png) label to repositories in accordance with the [awesome](https://github.com/sindresorhus/awesome) manifesto. This is a community effort, so please [contribute](contributing.md)!
 
 ## Contents
 - [Related Lists](#related-lists)
-- [Related Awesome](#related-awesome)
 - [Software](#software)
     - [Simulation and Modelling](#simulation-and-modelling)
     - [Visualization](#visualization)
@@ -20,11 +19,8 @@ Inspired by [awesome-open-geoscience](https://github.com/softwareunderground/awe
 
 ## Related Lists
 <a name="related-lists"></a>
+
 - [Python-Hydrology-Tools](https://github.com/raoulcollenteur/Python-Hydrology-Tools) –  List of python tools for hydrologists
-
-## Related Awesome
-<a name="related-awesome"></a>
-
 - ![Awesome](media/icon/awesome.png) [Awesome-Open-Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Awesome list for geoscience
 - ![Awesome](media/icon/awesome.png) [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) –  Awesome list for geospatial, not specific to geoscience but significant overlap
 - ![Awesome](media/icon/awesome.png) [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) –  Awesome list for atmospheric, ocean, climate, and hydrologic science
