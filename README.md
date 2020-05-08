@@ -4,7 +4,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/Open-Environmental-Science/awesome-open-hydrology.svg?branch=master)](https://travis-ci.org/Open-Environmental-Science/awesome-open-hydrology) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/Open-Environmental-Science/awesome-open-hydrology.svg?label=contributions)](https://github.com/Open-Environmental-Science/awesome-open-hydrology/pulls) [![Commits](https://img.shields.io/github/last-commit/Open-Environmental-Science/awesome-open-hydrology.svg?label=last%20contribution)](https://github.com/Open-Environmental-Science/awesome-open-hydrology/commits/master) [![License](https://img.shields.io/github/license/Open-Environmental-Science/awesome-open-hydrology.svg)](https://github.com/Open-Environmental-Science/awesome-open-hydrology/blob/master/LICENSE)
 
-Inspired by the below-mentioned list for geoscience by [softwareunderground](https://github.com/softwareunderground), we made a specific list of open hydrology-relevant projects. This list is curated from repositories that make our lives as (eco-)hydrologists easier. We add the ![Awesome](media/icon/awesome.png) label to repositories in accordance with the [awesome](awesome.md) manifesto. This is a community effort, so please [contribute](contributing.md)!
+Inspired by the below-mentioned list for geoscience by [softwareunderground](https://github.com/softwareunderground), we made a specific list of open hydrology-relevant projects. This list is curated from repositories that make our lives as (eco-)hydrologists easier. We add the ![Awesome](media/icon/awesome.png) label to repositories that are in accordance with the [awesome](awesome.md) manifesto. This is a community effort, so please [contribute](contributing.md)!
 
 ## Contents
 - [Related Lists](#related-lists)
@@ -35,17 +35,12 @@ Awesome software projects sub-categorized by focus.
 ### Simulation and Modelling
 <a name="simulation-and-modelling"></a>
 
-- ![Awesome](media/icon/awesome.png) [ESSM](https://essm.readthedocs.io) – ![Python](media/icon/python.png) A package for traceable and reproducible mathematical derivations and analysis.
+- ![Awesome](media/icon/awesome.png) [ESSM](https://github.com/environmentalscience/essm) – ![Python](media/icon/python.png) A package for traceable and reproducible mathematical derivations and analysis.
 
 ### Visualization
 <a name="visualization"></a>
 
-- ![Awesome](media/icon/awesome.png) [Colorcet](https://github.com/holoviz/colorcet)  – ![Python](media/icon/python.png) Perceptual colormaps 
-<<<<<<< Updated upstream
-- ![Awesome](media/icon/awesome.png) [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.png)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.png)](https://www.paraview.org) Data and model visualization in ParaView and Visualization Toolkit (VTK) via PyVista 
-- ![Awesome](media/icon/awesome.png) [PyVista](https://github.com/pyvista/pyvista) – ![Python](media/icon/python.png) 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK) ![Awesome](media/icon/awesome.png)
-=======
->>>>>>> Stashed changes
+- ![Awesome](media/icon/awesome.png) [Colorcet](https://github.com/holoviz/colorcet) – ![Python](media/icon/python.png) Perceptual colormaps 
 - ![Awesome](media/icon/awesome.png) [GeologicPatterns](https://github.com/davenquinn/geologic-patterns) - Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns 
 - ![Awesome](media/icon/awesome.png) [omfvista](https://github.com/OpenGeoVis/omfvista) – ![Python](media/icon/python.png) PyVista interface for the [Open Mining Format (omf)](#miscellaneous) package 
 - ![Awesome](media/icon/awesome.png) [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.png)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.png)](https://www.paraview.org) Data and model visualization in ParaView and Visualization Toolkit (VTK) via PyVista 
