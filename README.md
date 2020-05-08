@@ -20,11 +20,11 @@ Inspired by the below-mentioned list for geoscience by [softwareunderground](htt
 ## Related Lists
 <a name="related-lists"></a>
 
-- [Python-Hydrology-Tools](https://github.com/raoulcollenteur/Python-Hydrology-Tools) –  List of python tools for hydrologists
+- ![Awesome](media/icon/awesome.png) [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) – Awesome list for coastal engineers and scientists
+- ![Awesome](media/icon/awesome.png) [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) –  Awesome list for atmospheric, ocean, climate, and hydrologic science
 - ![Awesome](media/icon/awesome.png) [Awesome-Open-Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Awesome list for geoscience
 - ![Awesome](media/icon/awesome.png) [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) –  Awesome list for geospatial, not specific to geoscience but significant overlap
-- ![Awesome](media/icon/awesome.png) [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) –  Awesome list for atmospheric, ocean, climate, and hydrologic science
-- ![Awesome](media/icon/awesome.png) [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) – Awesome list for coastal engineers and scientists
+- [Python-Hydrology-Tools](https://github.com/raoulcollenteur/Python-Hydrology-Tools) –  List of python tools for hydrologists
 
 | ▲ [Top](#awesome-open-hydrology) |
 
@@ -35,21 +35,28 @@ Awesome software projects sub-categorized by focus.
 ### Simulation and Modelling
 <a name="simulation-and-modelling"></a>
 
+- ![Awesome](media/icon/awesome.png) [ESSM](https://essm.readthedocs.io) – ![Python](media/icon/python.png) A package for traceable and reproducible mathematical derivations and analysis.
+
 ### Visualization
 <a name="visualization"></a>
 
 - ![Awesome](media/icon/awesome.png) [Colorcet](https://github.com/holoviz/colorcet)  – ![Python](media/icon/python.png) Perceptual colormaps 
+<<<<<<< Updated upstream
 - ![Awesome](media/icon/awesome.png) [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.png)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.png)](https://www.paraview.org) Data and model visualization in ParaView and Visualization Toolkit (VTK) via PyVista 
 - ![Awesome](media/icon/awesome.png) [PyVista](https://github.com/pyvista/pyvista) – ![Python](media/icon/python.png) 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK) ![Awesome](media/icon/awesome.png)
+=======
+>>>>>>> Stashed changes
 - ![Awesome](media/icon/awesome.png) [GeologicPatterns](https://github.com/davenquinn/geologic-patterns) - Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns 
 - ![Awesome](media/icon/awesome.png) [omfvista](https://github.com/OpenGeoVis/omfvista) – ![Python](media/icon/python.png) PyVista interface for the [Open Mining Format (omf)](#miscellaneous) package 
+- ![Awesome](media/icon/awesome.png) [PVGeo](https://github.com/OpenGeoVis/PVGeo) – [![Python](media/icon/python.png)](https://pypi.org/project/PVGeo/) [![ParaView](media/icon/paraview.png)](https://www.paraview.org) Data and model visualization in ParaView and Visualization Toolkit (VTK) via PyVista 
+- ![Awesome](media/icon/awesome.png) [PyVista](https://github.com/pyvista/pyvista) – ![Python](media/icon/python.png) 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK) 
 
 ### Platforms
 <a name="platforms"></a>
 
-- ![Awesome](media/icon/awesome.png) [RINGMesh](https://github.com/ringmesh/RINGMesh) – ![C++](media/icon/cplusplus.png) Mesh manipulation of geological models 
-- ![Awesome](media/icon/awesome.png) [QGIS](http://www.qgis.com/) – GIS platform to visualize, manage, edit, analyse data, and compose printable maps 
 - ![Awesome](media/icon/awesome.png) [Pangeo](https://pangeo.io/) – ![Python](media/icon/python.png) A community platform for Big Data geoscience built on top of the open source scientific python ecosystem 
+- ![Awesome](media/icon/awesome.png) [QGIS](http://www.qgis.com/) – GIS platform to visualize, manage, edit, analyse data, and compose printable maps 
+- ![Awesome](media/icon/awesome.png) [RINGMesh](https://github.com/ringmesh/RINGMesh) – ![C++](media/icon/cplusplus.png) Mesh manipulation of geological models 
 
 | ▲ [Top](#awesome-open-hydrology) |
 
