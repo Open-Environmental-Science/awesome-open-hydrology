@@ -52,6 +52,7 @@ Awesome software projects sub-categorized by focus.
 - ![Awesome](media/icon/awesome.png) [Pangeo](https://pangeo.io/) – ![Python](media/icon/python.png) A community platform for Big Data geoscience built on top of the open source scientific python ecosystem 
 - ![Awesome](media/icon/awesome.png) [QGIS](http://www.qgis.com/) – GIS platform to visualize, manage, edit, analyse data, and compose printable maps 
 - ![Awesome](media/icon/awesome.png) [RINGMesh](https://github.com/ringmesh/RINGMesh) – ![C++](media/icon/cplusplus.png) Mesh manipulation of geological models 
+- ![Awesome](media/icon/awesome.png) [Landlab](https://github.com/landlab/landlab) – ![Python](media/icon/python.png) Landlab is a Python framework for building and running numerical models of Earth surface dynamics
 
 | ▲ [Top](#awesome-open-hydrology) |
 
