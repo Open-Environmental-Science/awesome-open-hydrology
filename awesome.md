@@ -158,7 +158,18 @@ You can refer to the list of [trove classifiers defined by PyPI](https://pypi.or
     Bad (not acceptable): Your software does not follow semantic versioning and you never thought 
                           about development status. Take 5 minutes of your time and become awesome-ish!
 
-*you can create custom badges i.e. on [shields.io](https://shields.io/)* 
+*you can create custom badges i.e. on [shields.io](https://shields.io/). Or you copy them from below:* 
+
+* ![](https://img.shields.io/badge/development%20status-1%20--%20Planning-red)
+* ![](https://img.shields.io/badge/development%20status-2%20--%20Pre--alpha-orange)
+* ![](https://img.shields.io/badge/development%20status-3%20--%20Alpha-yellow) 
+* ![](https://img.shields.io/badge/development%20status-4%20--%20Beta-yellowgreen) 
+* ![](https://img.shields.io/badge/development%20status-5%20--%20Production%2FStable-brightgreen)
+* ![](https://img.shields.io/badge/development%20status-6%20--%20Mature-success)
+* ![](https://img.shields.io/badge/development%20status-7%20--%20Inactive-inactive)
+
+
+
 
 
 | ▲ [Top](#our-definition-of-awesome) |
