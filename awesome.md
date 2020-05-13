@@ -157,5 +157,9 @@ You can refer to the list of [trove classifiers defined by PyPI](https://pypi.or
     Awesome-ish: Your software is in terms of classifiers at least a 3 - Alpha but smaller than a 7 - Inactive
     Bad (not acceptable): Your software does not follow semantic versioning and you never thought 
                           about development status. Take 5 minutes of your time and become awesome-ish!
+
+*you can create custom badges i.e. on [shields.io](https://shields.io/)* 
+
+
 | ▲ [Top](#our-definition-of-awesome) |
 | --- |
