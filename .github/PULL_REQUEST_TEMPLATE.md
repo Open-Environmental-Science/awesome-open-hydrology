@@ -28,6 +28,7 @@ Checklist for new projects:
 - [ ] Documentation looks great
 - [ ] Examples or Tutorials to follow
 - [ ] Tests and Travis CI running
+- [ ] Development status of the project is communicated
 
 <!-- For Datasets, Cheatsheets and Publications -->
 - [ ] Easily Accessible
