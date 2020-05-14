@@ -145,5 +145,32 @@ Tests can also be non-applicable for certain projects and are sometimes really h
     Awesome-ish (If we're in a really good mood): Documented manual steps that can be followed to objectively check the expected functionality of the software
 
 
+## Development Status
+
+Software can be in very different status and an awsome software will tell their users. `In-development` does not mean bad, because others might work on similar problems and this way you can join forces. However, code that is barely functional, claiming to cover a whole topic but offering only a fragment promised is not awesome. Nobody likes to end up with a `NotImplementedError` on every API endpoint.
+You can refer to the list of [trove classifiers defined by PyPI](https://pypi.org/classifiers/), which do also apply to other languages to indicate your development status. Additionally, it's absolutely awesome to stick to [semantic versioning](https://semver.org/).
+
+    Uber-Awesome: You are awesome and integrated the classifiers directly with PyPI making the software 
+                  searchable via classifiers or if not applicable you have a classifier badge on the readme. 
+    Awesome: You are awsome-ish and your software uses semantic versioning and you indicate the 
+             development status prominently on your readme
+    Awesome-ish: Your software is in terms of classifiers at least a 3 - Alpha but smaller than a 7 - Inactive
+    Bad (not acceptable): Your software does not follow semantic versioning and you never thought 
+                          about development status. Take 5 minutes of your time and become awesome-ish!
+
+*you can create custom badges i.e. on [shields.io](https://shields.io/). Or you copy them from below:* 
+
+* ![](https://img.shields.io/badge/development%20status-1%20--%20Planning-red)
+* ![](https://img.shields.io/badge/development%20status-2%20--%20Pre--alpha-orange)
+* ![](https://img.shields.io/badge/development%20status-3%20--%20Alpha-yellow) 
+* ![](https://img.shields.io/badge/development%20status-4%20--%20Beta-yellowgreen) 
+* ![](https://img.shields.io/badge/development%20status-5%20--%20Production%2FStable-brightgreen)
+* ![](https://img.shields.io/badge/development%20status-6%20--%20Mature-success)
+* ![](https://img.shields.io/badge/development%20status-7%20--%20Inactive-inactive)
+
+
+
+
+
 | ▲ [Top](#our-definition-of-awesome) |
 | --- |
