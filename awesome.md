@@ -147,7 +147,7 @@ Tests can also be non-applicable for certain projects and are sometimes really h
 
 ## Development Status
 
-Software can be in very different status and an awsome software will tell their users. `In-development` does not mean bad, because others might work on similar problems and this way you can join forces. However, code that is barly functional, claiming to cover a whole topic but offering only a fragment promised is not awesome. Nobody likes to end up with a `NotImplementedError` on every API endpoint.
+Software can be in very different status and an awsome software will tell their users. `In-development` does not mean bad, because others might work on similar problems and this way you can join forces. However, code that is barely functional, claiming to cover a whole topic but offering only a fragment promised is not awesome. Nobody likes to end up with a `NotImplementedError` on every API endpoint.
 You can refer to the list of [trove classifiers defined by PyPI](https://pypi.org/classifiers/), which do also apply to other languages to indicate your development status. Additionally, it's absolutely awesome to stick to [semantic versioning](https://semver.org/).
 
     Uber-Awesome: You are awesome and integrated the classifiers directly with PyPI making the software 
