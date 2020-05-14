@@ -36,6 +36,7 @@ Awesome software projects sub-categorized by focus.
 <a name="simulation-and-modelling"></a>
 
 - ![Awesome](media/icon/awesome.png) [ESSM](https://github.com/environmentalscience/essm) – ![Python](media/icon/python.png) A package for traceable and reproducible mathematical derivations and analysis.
+- ![Awesome](media/icon/awesome.png) [PyMT](https://github.com/csdms/pymt) – ![Python](media/icon/python.png) Python toolkit for coupling models and datasets that expose the [Basic Model Interface (BMI)](https://github.com/csdms/bmi)
 
 ### Visualization
 <a name="visualization"></a>
@@ -52,7 +53,6 @@ Awesome software projects sub-categorized by focus.
 - ![Awesome](media/icon/awesome.png) [Pangeo](https://pangeo.io/) – ![Python](media/icon/python.png) A community platform for Big Data geoscience built on top of the open source scientific python ecosystem 
 - ![Awesome](media/icon/awesome.png) [QGIS](http://www.qgis.com/) – GIS platform to visualize, manage, edit, analyse data, and compose printable maps 
 - ![Awesome](media/icon/awesome.png) [RINGMesh](https://github.com/ringmesh/RINGMesh) – ![C++](media/icon/cplusplus.png) Mesh manipulation of geological models 
-- ![Awesome](media/icon/awesome.png) [PyMT](https://github.com/csdms/pymt) – ![Python](media/icon/python.png) Python toolkit for coupling models and datasets that expose the [Basic Model Interface (BMI)](https://github.com/csdms/bmi)
 
 | ▲ [Top](#awesome-open-hydrology) |
 
