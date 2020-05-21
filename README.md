@@ -36,6 +36,8 @@ Awesome software projects sub-categorized by focus.
 <a name="simulation-and-modelling"></a>
 
 - ![Awesome](media/icon/awesome.png) [ESSM](https://github.com/environmentalscience/essm) – ![Python](media/icon/python.png) A package for traceable and reproducible mathematical derivations and analysis.
+- ![Awesome](media/icon/awesome.png) [Landlab](https://github.com/landlab/landlab) – ![Python](media/icon/python.png) Landlab is a Python framework for building and running numerical models of Earth surface dynamics
+- ![Awesome](media/icon/awesome.png) [PyMT](https://github.com/csdms/pymt) – ![Python](media/icon/python.png) Python toolkit for coupling models and datasets that expose the [Basic Model Interface (BMI)](https://github.com/csdms/bmi)
 
 ### Visualization
 <a name="visualization"></a>
