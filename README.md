@@ -60,6 +60,7 @@ Awesome software projects sub-categorized by focus.
 ## Data Repositories
 <a name="data-repositories"></a>
 
+- [dwdweather2](https://github.com/panodata/dwdweather2) – ![Python](media/icon/python.png) Python client to access weather data from Deutscher Wetterdienst (DWD), the federal meteorological service in Germany
 - ![Awesome](media/icon/awesome.png) [Quantarctica](https://www.npolar.no/quantarctica/) – User-configurable [QGIS](#platforms) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data 
 
 | ▲ [Top](#awesome-open-hydrology) |
