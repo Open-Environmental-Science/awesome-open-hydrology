@@ -37,6 +37,7 @@ Awesome software projects sub-categorized by focus.
 
 - ![Awesome](media/icon/awesome.png) [ESSM](https://github.com/environmentalscience/essm) – ![Python](media/icon/python.png) A package for traceable and reproducible mathematical derivations and analysis.
 - ![Awesome](media/icon/awesome.png) [PyMT](https://github.com/csdms/pymt) – ![Python](media/icon/python.png) Python toolkit for coupling models and datasets that expose the [Basic Model Interface (BMI)](https://github.com/csdms/bmi)
+- ![Awesome](media/icon/awesome.png) [bigleaf](https://bitbucket.org/juergenknauer/bigleaf/src/master/) – ![R](media/icon/r.png) Physical and Physiological Ecosystem Properties from Eddy Covariance Data
 
 ### Visualization
 <a name="visualization"></a>
