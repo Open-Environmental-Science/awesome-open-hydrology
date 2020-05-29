@@ -39,6 +39,7 @@ Awesome software projects sub-categorized by focus.
 - ![Awesome](media/icon/awesome.png) [PyMT](https://github.com/csdms/pymt) – ![Python](media/icon/python.png) Python toolkit for coupling models and datasets that expose the [Basic Model Interface (BMI)](https://github.com/csdms/bmi)
 - ![Awesome](media/icon/awesome.png) [bigleaf](https://bitbucket.org/juergenknauer/bigleaf/src/master/) – ![R](media/icon/r.png) Physical and Physiological Ecosystem Properties from Eddy Covariance Data
 - ![Awesome](media/icon/awesome.png) [plantecophys](https://bitbucket.org/remkoduursma/plantecophys/src/master/) – ![R](media/icon/r.png) A collection of utilities to analyze and model leaf gas exchange data
+- ![Awesome](media/icon/awesome.png) [rpmodel](https://github.com/stineb/rpmodel) – ![R](media/icon/r.png) Implements the P-model, predicting acclimated parameters of the enzyme kinetics of C3 photosynthesis, assimilation, and dark respiration rates as a function of the environment (temperature, CO2, vapour pressure deficit, light, atmospheric pressure).
 
 ### Visualization
 <a name="visualization"></a>
