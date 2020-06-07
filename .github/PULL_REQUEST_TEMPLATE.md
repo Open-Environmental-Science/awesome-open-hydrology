@@ -39,4 +39,4 @@ Checklist for new projects:
 - [ ] Checked spelling and grammar.
 - [ ] Removed trailing whitespace and periods.
 - [ ] Confirm the dash – is not a minus -.
-- [ ] Used [title-casing](http://titlecapitalization.com) (AP style) for project name.
+- [ ] Used [title-casing](https://capitalizemytitle.com/#APStyle) (AP style) for project name.
