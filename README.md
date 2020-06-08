@@ -12,6 +12,7 @@ Inspired by the below-mentioned list for geoscience by [softwareunderground](htt
     - [Simulation and Modelling](#simulation-and-modelling)
     - [Visualization](#visualization)
     - [Platforms](#platforms)
+    - [Data Mining](#data-mining)
 - [Data Repositories](#data-repositories)
 - [Tutorials and Cheat Sheets](#tutorials-and-cheat-sheets)
 - [Miscellaneous](#miscellaneous)
@@ -58,12 +59,20 @@ Awesome software projects sub-categorized by focus.
 
 | ▲ [Top](#awesome-open-hydrology) |
 
+### Data Mining
+<a name="data-mining"></a>
+
+- [dwdweather2](https://github.com/panodata/dwdweather2) – ![Python](media/icon/python.png) Python client to access weather data from Deutscher Wetterdienst (DWD), the federal meteorological service in Germany
+
+
+| ▲ [Top](#awesome-open-hydrology) |
 ## Data Repositories
 <a name="data-repositories"></a>
 
 - ![Awesome](media/icon/awesome.png) [Quantarctica](https://www.npolar.no/quantarctica/) – User-configurable [QGIS](#platforms) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data 
 
 | ▲ [Top](#awesome-open-hydrology) |
+
 
 ## Tutorials and Cheat Sheets
 <a name="tutorials-and-cheat-sheets"></a>
@@ -76,7 +85,6 @@ Awesome software projects sub-categorized by focus.
 
 ## Miscellaneous
 <a name="miscellaneous"></a>
-
 
 | ▲ [Top](#awesome-open-hydrology) |
 
