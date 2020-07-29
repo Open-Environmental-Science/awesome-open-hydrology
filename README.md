@@ -63,6 +63,7 @@ Awesome software projects sub-categorized by focus.
 <a name="data-mining"></a>
 
 - [dwdweather2](https://github.com/panodata/dwdweather2) – ![Python](media/icon/python.png) Python client to access weather data from Deutscher Wetterdienst (DWD), the federal meteorological service in Germany
+- [Hydrodata](https://github.com/cheginit/hydrodata) – ![Python](media/icon/python.png) A Python software stack for accessing hydrology and climatology data through web services
 
 
 | ▲ [Top](#awesome-open-hydrology) |
