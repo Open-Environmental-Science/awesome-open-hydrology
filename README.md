@@ -43,6 +43,7 @@ Awesome software projects sub-categorized by focus.
 - ![Awesome](media/icon/awesome.png) [GroundwaterCast](https://github.com/dominicm2023/groundwatercast-uk) – ![Python](media/icon/python.png) Daily probabilistic groundwater-level forecasting for England's monitored boreholes — per-borehole Pastas models driven by ECMWF ensemble rainfall, open data end-to-end
 - ![Awesome](media/icon/awesome.png) [Landlab](https://github.com/landlab/landlab) – ![Python](media/icon/python.png) Landlab is a Python framework for building and running numerical models of Earth surface dynamics
 - ![Awesome](media/icon/awesome.png) [PyMT](https://github.com/csdms/pymt) – ![Python](media/icon/python.png) Python toolkit for coupling models and datasets that expose the Basic Model Interface (BMI)
+- ![Awesome](media/icon/awesome.png) [StormSewer](https://github.com/mf4633/stormsewer) – [![Python](media/icon/python.png)](https://pypi.org/project/stormsewer/) Gravity storm-drain design and analysis: Rational method, Manning for circular, box, elliptical and arch conduits, standard-step HGL/EGL backwater, and HEC-22 inlet interception with bypass carryover. Cross-platform desktop app, CLI, and a scriptable engine. Results in US customary units only (cfs, ft); SI output not yet supported
 
 ### Visualization
 <a name="visualization"></a>
