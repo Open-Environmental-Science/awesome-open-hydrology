@@ -75,6 +75,7 @@ Awesome software projects sub-categorized by focus.
 
 - ![Awesome](media/icon/awesome.png) [Quantarctica](https://www.npolar.no/quantarctica/) – User-configurable [QGIS](#platforms) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data
 - [US Water Quality by ZIP Code](https://github.com/artakulov/us-water-quality-data) – Drinking water quality data for 6,300+ US ZIP codes derived from EPA records, with an open API at api.zipcheckup.com. CC BY 4.0.
+- [US private well statistics by county](https://privatewell.org/statistics/) – County well depth, depth bands and groundwater quality from 6,820,947 household well records in 39 US states, with a DOI (10.5281/zenodo.24377826). CC BY 4.0.
 
 | ▲ [Top](#awesome-open-hydrology) |
 
